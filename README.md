@@ -7,7 +7,7 @@ Light and Memory Sound Game
 
 Submitted by: Janiece P.
 
-Time spent: 5 hours spent in total
+Time spent: 6 hours spent in total
 
 Link to project: (https://lightmemorysoundjp.glitch.me/)
 
