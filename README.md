@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
+
 ![](https://github.com/janiece7/codepath-prework/blob/main/ezgif.com-gif-maker.gif)
 
 ## Reflection Questions
