@@ -66,7 +66,10 @@ If I had more time to work on this project, I would have tried to incorporate a 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording] (https://github.com/janiece7/codepath-prework/blob/main/Untitled.mp4)
+[My 5-minute Interview Recording] 
+
+(https://user-images.githubusercontent.com/64934805/161360661-9fbb4236-0e55-4458-8235-0a04e3ca7def.mp4)
+
 
 
 ## License
