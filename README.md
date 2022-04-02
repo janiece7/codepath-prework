@@ -8,7 +8,7 @@ Submitted by: Janiece P.
 
 Time spent: 5 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://lightmemorysoundjp.glitch.me/)
 
 ## Required Functionality
 
@@ -48,7 +48,7 @@ The following **additional** features are implemented:
 
 I used W3schools.com to help me understand more of the css portion of the project.
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it?  
 
 Getting used to programming in different components was a challenge for me while working on this project. It was my first time combining HTML, Javascript, and CSS to complete a project. When I got to the javascript section, I was surprised because I'm used to using Java. As a result, it took me some time to figure out how the functions and methods in this project worked together. I overcame this by sticking to the resources provided and researching more about the subject when I was challenged to finish the work. I also took a step back and looked at the code itself to see how each section interacted with one another. This really helped me feel less overwhelmed by what I didn't know, and it allowed me to compartmentalize it. This piqued my interest in how javasvript works, and I was eager to see how the pieces fit together to form a fully interactive project. In the future, I hope to continue learning more about this field and discovering new ways to improve my development.
 
