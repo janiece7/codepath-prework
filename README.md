@@ -42,7 +42,7 @@ The following **additional** features are implemented:
 
 
 ![](https://github.com/janiece7/codepath-prework/blob/main/ezgif.com-gif-maker.gif)
-
+![](https://github.com/janiece7/codepath-prework/blob/main/ezgif.com-gif-maker%20(4).gif)
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
